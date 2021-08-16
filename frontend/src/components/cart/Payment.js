@@ -185,7 +185,7 @@ const Payment = ({ history }) => {
                     <Modal.Title>Demo Card Details</Modal.Title>
                   </Modal.Header>
                   <Modal.Body>
-                    <p>Card No: 4242 4242 4242 4242</p>
+                    <p>Card No: 4000 0027 6000 3184</p>
                     <p>Expiry: 02/25</p>
                     <p>CVV: 123</p>
                   </Modal.Body>
